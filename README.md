@@ -68,12 +68,6 @@ Follow prompts to authenticate and enter target number.
 
 The tracker sends reaction messages to non-existent message IDs, which triggers no notifications at the target. The time between sending the probe message and receiving the CLIENT ACK (Status 3) is measured as RTT. Device state is detected using a dynamic threshold calculated as 90% of the median RTT: values below the threshold indicate active usage, values above indicate standby mode. Measurements are stored in a history and the median is continuously updated to adapt to different network conditions.
 
-## Known Issues
-
-1. **Offline Detection Bug**: The offline detection is currently not working reliably
-
-If you have time and interest, feel free to submit a pull request to fix these issues.
-
 ## Project Structure
 
 ```
