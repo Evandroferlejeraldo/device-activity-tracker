@@ -183,3 +183,7 @@ Built with [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys)
 
 **Use responsibly. This tool demonstrates real security vulnerabilities that affect millions of users.**
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=gommzystudio/device-activity-tracker&type=date&legend=top-left)](https://www.star-history.com/#gommzystudio/device-activity-tracker&type=date&legend=top-left)
